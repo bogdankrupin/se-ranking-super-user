@@ -1,0 +1,46 @@
+name: Refresh SE Ranking doc map
+
+# Keeps skills/se-ranking-api-docs/references/doc-map.md mirrored to the live
+# SE Ranking docs sidebar. Answer content is always read live by the skill;
+# this only refreshes the URL/anchor snapshot so citations point to the right
+# sections between runs.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # every Monday 06:00 UTC
+  workflow_dispatch: {}     # allow manual runs from the Actions tab
+
+permissions:
+  contents: write           # needed to push the updated map
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r skills/se-ranking-api-docs/scripts/requirements.txt
+
+      - name: Refresh doc map
+        run: python skills/se-ranking-api-docs/scripts/refresh_doc_map.py
+
+      - name: Commit changes if any
+        run: |
+          MAP="skills/se-ranking-api-docs/references/doc-map.md"
+          if [[ -n "$(git status --porcelain "$MAP")" ]]; then
+            git config user.name  "doc-map-bot"
+            git config user.email "actions@github.com"
+            git add "$MAP"
+            git commit -m "chore: refresh SE Ranking doc map ($(date -u +%Y-%m-%d))"
+            git push
+            echo "Doc map updated and pushed."
+          else
+            echo "No changes — doc map already current."
+          fi
