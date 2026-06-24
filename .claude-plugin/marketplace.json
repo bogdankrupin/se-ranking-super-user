@@ -1,0 +1,23 @@
+{
+  "name": "se-ranking",
+  "owner": {
+    "name": "Bogdan Krupin",
+    "email": "bogdan.krupin@seranking.com"
+  },
+  "metadata": {
+    "description": "SE Ranking Super User — SEO data analysis, API/MCP docs concierge, and influencer profile boards for Claude.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "se-ranking-super-user",
+      "source": "./",
+      "description": "SE Ranking Super User: bundles three SE Ranking skills — data analyst & reporting, API/MCP documentation concierge, and AI-search-enriched influencer profile boards.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bogdan Krupin",
+        "email": "bogdan.krupin@seranking.com"
+      }
+    }
+  ]
+}
