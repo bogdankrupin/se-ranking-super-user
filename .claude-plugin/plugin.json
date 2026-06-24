@@ -1,23 +1,23 @@
 {
-"name": "se-ranking-super-user",
-"version": "1.0.0",
-"description": "SE Ranking Super User — a toolkit for Claude: pull and report on SEO data (rankings, backlinks, AI-search visibility, audits), answer SE Ranking API/MCP questions grounded in the official docs, and build interactive influencer profile boards enriched with live AI-search data.",
-"author": {
-"name": "Bogdan Krupin",
-"email": "bogdan.krupin@seranking.com",
-"url": "https://github.com/bogdankrupin"
-},
-"homepage": "https://github.com/bogdankrupin/se-ranking-super-user",
-"repository": "https://github.com/bogdankrupin/se-ranking-super-user",
-"license": "MIT",
-"keywords": [
-"se-ranking",
-"seo",
-"ai-search",
-"llm-visibility",
-"backlinks",
-"rank-tracking",
-"mcp",
-"reporting"
-]
+    "name": "se-ranking-super-user",
+    "version": "1.0.0",
+    "description": "SE Ranking Super User — a toolkit for Claude: pull and report on SEO data (rankings, backlinks, AI-search visibility, audits), answer SE Ranking API/MCP questions grounded in the official docs, and build interactive influencer profile boards enriched with live AI-search data.",
+    "author": {
+          "name": "Bogdan Krupin",
+          "email": "bogdan.krupin@seranking.com",
+          "url": "https://github.com/bogdankrupin"
+    },
+    "homepage": "https://github.com/bogdankrupin/se-ranking-super-user",
+    "repository": "https://github.com/bogdankrupin/se-ranking-super-user",
+    "license": "MIT",
+    "keywords": [
+          "se-ranking",
+          "seo",
+          "ai-search",
+          "llm-visibility",
+          "backlinks",
+          "rank-tracking",
+          "mcp",
+          "reporting"
+    ]
 }
