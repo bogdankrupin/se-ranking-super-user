@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-06-29. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-07-20. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -61,6 +61,70 @@ The docs are split into three top-level areas:
 | Topic | URL |
 |---|---|
 | Usage guidelines for commercial purposes | https://seranking.com/api/usage-guidelines-for-commercial-purposes/ |
+
+### se-visible
+
+| Topic | URL |
+|---|---|
+| Overview | https://seranking.com/api/se-visible/ |
+| Getting started | https://seranking.com/api/se-visible/getting-started/ |
+| Base URL | https://seranking.com/api/se-visible/getting-started#base-url |
+| Authentication | https://seranking.com/api/se-visible/getting-started#authentication |
+| Resource model | https://seranking.com/api/se-visible/getting-started#resource-model |
+| Making requests | https://seranking.com/api/se-visible/getting-started#making-requests |
+| Pagination | https://seranking.com/api/se-visible/getting-started#pagination |
+| Filtering and array parameters | https://seranking.com/api/se-visible/getting-started#filtering-and-array-parameters |
+| Date ranges and compare mode | https://seranking.com/api/se-visible/getting-started#date-ranges-and-compare-mode |
+| Usage and limits | https://seranking.com/api/se-visible/getting-started#usage-and-limits |
+| Errors | https://seranking.com/api/se-visible/getting-started#errors |
+| Support | https://seranking.com/api/se-visible/getting-started#support |
+| Projects | https://seranking.com/api/se-visible/projects/ |
+| List projects | https://seranking.com/api/se-visible/projects#list-projects |
+| Create project | https://seranking.com/api/se-visible/projects#create-project |
+| Get project details | https://seranking.com/api/se-visible/projects#get-project-details |
+| Delete a project | https://seranking.com/api/se-visible/projects#delete-a-project |
+| Brands | https://seranking.com/api/se-visible/brands/ |
+| List tracked brands | https://seranking.com/api/se-visible/brands#list-tracked-brands |
+| Create competitor brand | https://seranking.com/api/se-visible/brands#create-competitor-brand |
+| List mentioned brands | https://seranking.com/api/se-visible/brands#list-mentioned-brands |
+| Get aggregated brand metrics | https://seranking.com/api/se-visible/brands#get-aggregated-brand-metrics |
+| Update brand | https://seranking.com/api/se-visible/brands#update-brand |
+| Delete brand | https://seranking.com/api/se-visible/brands#delete-brand |
+| Add aliases to brand | https://seranking.com/api/se-visible/brands#add-aliases-to-brand |
+| Topics | https://seranking.com/api/se-visible/topics/ |
+| Create topics | https://seranking.com/api/se-visible/topics#create-topics |
+| Update a topic title | https://seranking.com/api/se-visible/topics#update-a-topic-title |
+| Delete a topic | https://seranking.com/api/se-visible/topics#delete-a-topic |
+| Prompts | https://seranking.com/api/se-visible/prompts/ |
+| List prompts or topics | https://seranking.com/api/se-visible/prompts#list-prompts-or-topics |
+| Delete prompts | https://seranking.com/api/se-visible/prompts#delete-prompts |
+| Create prompts for a topic | https://seranking.com/api/se-visible/prompts#create-prompts-for-a-topic |
+| Move prompts to a topic | https://seranking.com/api/se-visible/prompts#move-prompts-to-a-topic |
+| Get prompt details | https://seranking.com/api/se-visible/prompts#get-prompt-details |
+| Get prompt result list | https://seranking.com/api/se-visible/prompts#get-prompt-result-list |
+| Get prompt result details | https://seranking.com/api/se-visible/prompts#get-prompt-result-details |
+| Download raw LLM response dump | https://seranking.com/api/se-visible/prompts#download-raw-llm-response-dump |
+| Sources | https://seranking.com/api/se-visible/sources/ |
+| Get project sources | https://seranking.com/api/se-visible/sources#get-project-sources |
+| Reference | https://seranking.com/api/se-visible/reference/ |
+| AI models | https://seranking.com/api/se-visible/reference#ai-models |
+| Sentiment | https://seranking.com/api/se-visible/reference#sentiment |
+| Project status | https://seranking.com/api/se-visible/reference#project-status |
+| Country codes | https://seranking.com/api/se-visible/reference#country-codes |
+| Language codes | https://seranking.com/api/se-visible/reference#language-codes |
+| Source type | https://seranking.com/api/se-visible/reference#source-type |
+| URL category types | https://seranking.com/api/se-visible/reference#url-category-types |
+| Brand match mode | https://seranking.com/api/se-visible/reference#brand-match-mode |
+| Prompt list grouping | https://seranking.com/api/se-visible/reference#prompt-list-grouping |
+| Brand metrics dimensions and metrics | https://seranking.com/api/se-visible/reference#brand-metrics-dimensions-and-metrics |
+| Sort fields | https://seranking.com/api/se-visible/reference#sort-fields |
+| Date ranges and compare mode | https://seranking.com/api/se-visible/reference#date-ranges-and-compare-mode |
+| Array parameters | https://seranking.com/api/se-visible/reference#array-parameters |
+| Pagination | https://seranking.com/api/se-visible/reference#pagination |
+| Error codes | https://seranking.com/api/se-visible/reference#error-codes |
+| Authentication | https://seranking.com/api/se-visible/reference#authentication |
+| Subscription | https://seranking.com/api/se-visible/subscription/ |
+| Get subscription details | https://seranking.com/api/se-visible/subscription#get-subscription-details |
 
 ### integrations
 
@@ -406,7 +470,7 @@ The docs are split into three top-level areas:
 
 | Topic | URL |
 |---|---|
-| AI Result Tracker | https://seranking.com/api/project/ai-result-tracker/ |
+| AI Results Tracker | https://seranking.com/api/project/ai-result-tracker/ |
 | Get site brand | https://seranking.com/api/project/ai-result-tracker/#get-brands |
 | Save site brand | https://seranking.com/api/project/ai-result-tracker/#save-brands |
 | List LLM engines | https://seranking.com/api/project/ai-result-tracker/#list-llm |
@@ -421,6 +485,25 @@ The docs are split into three top-level areas:
 | Delete prompts | https://seranking.com/api/project/ai-result-tracker/#delete-prompts |
 | Get prompt answer | https://seranking.com/api/project/ai-result-tracker#get-answer |
 | Get prompt rankings | https://seranking.com/api/project/ai-result-tracker/#get-rankings |
+
+### airt-sources
+
+| Topic | URL |
+|---|---|
+| AIRT Sources | https://seranking.com/api/project/airt-sources/ |
+| Get sources summary | https://seranking.com/api/project/airt-sources#get-sources-summary |
+| List source domains | https://seranking.com/api/project/airt-sources#list-source-domains |
+| List source pages | https://seranking.com/api/project/airt-sources#list-source-pages |
+| Get sources recommendations | https://seranking.com/api/project/airt-sources#get-sources-recommendations |
+
+### airt-competitors
+
+| Topic | URL |
+|---|---|
+| AIRT Competitors | https://seranking.com/api/project/airt-competitors/ |
+| Get competitors breakdown | https://seranking.com/api/project/airt-competitors#get-competitors-breakdown |
+| Get competitors check dates | https://seranking.com/api/project/airt-competitors#get-competitors-check-dates |
+| Get source metrics | https://seranking.com/api/project/airt-competitors#get-source-metrics |
 
 ### airt-groups
 
