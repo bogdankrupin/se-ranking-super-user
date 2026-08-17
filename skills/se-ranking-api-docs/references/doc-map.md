@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-07-20. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-08-17. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -282,18 +282,6 @@ The docs are split into three top-level areas:
 | Follow the guide | https://seranking.com/api/data/quickstarts/build-authority-with-link-building/ |
 | Follow the guide | https://seranking.com/api/data/quickstarts/analyze-domain-traffic-top-markets-and-competitors/ |
 | Follow the guide | https://seranking.com/api/data/quickstarts/use-website-audit-api-to-grow-rankings-and-traffic/ |
-
-### website-audit
-
-| Topic | URL |
-|---|---|
-| View docs | https://seranking.com/api/data/website-audit/ |
-
-### ai-search
-
-| Topic | URL |
-|---|---|
-| View docs | https://seranking.com/api/data/ai-search/ |
 
 ## 3. Project API
 
