@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-08-17. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-08-31. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -61,6 +61,38 @@ The docs are split into three top-level areas:
 | Topic | URL |
 |---|---|
 | Usage guidelines for commercial purposes | https://seranking.com/api/usage-guidelines-for-commercial-purposes/ |
+
+### local-marketing-api
+
+| Topic | URL |
+|---|---|
+| Overview | https://seranking.com/api/local-marketing-api/ |
+| Getting started | https://seranking.com/api/local-marketing-api/getting-started/ |
+| Usage and limits | https://seranking.com/api/local-marketing-api/getting-started#usage-and-limits |
+| Pagination | https://seranking.com/api/local-marketing-api/getting-started#pagination |
+| Errors | https://seranking.com/api/local-marketing-api/getting-started#errors |
+| Locations | https://seranking.com/api/local-marketing-api/locations/ |
+| List locations | https://seranking.com/api/local-marketing-api/locations#list-locations |
+| Get location details | https://seranking.com/api/local-marketing-api/locations#get-location-details |
+| Location overview | https://seranking.com/api/local-marketing-api/location-overview/ |
+| Get location overview | https://seranking.com/api/local-marketing-api/location-overview#get-location-overview |
+| Local Rankings | https://seranking.com/api/local-marketing-api/local-rankings/ |
+| Get Local Rankings keyword list | https://seranking.com/api/local-marketing-api/local-rankings#get-local-rankings-keyword-list |
+| Get Local Rankings positions | https://seranking.com/api/local-marketing-api/local-rankings#get-local-rankings-positions |
+| Get rankings indexed percent | https://seranking.com/api/local-marketing-api/local-rankings#get-rankings-indexed-percent |
+| Local Marketing Audit | https://seranking.com/api/local-marketing-api/local-marketing-audit/ |
+| Get latest audit report | https://seranking.com/api/local-marketing-api/local-marketing-audit#get-latest-audit-report |
+| Get audit report history | https://seranking.com/api/local-marketing-api/local-marketing-audit#get-audit-report-history |
+| Google Business Profile | https://seranking.com/api/local-marketing-api/google-business-profile/ |
+| Get Google Business Profile metrics | https://seranking.com/api/local-marketing-api/google-business-profile#get-google-business-profile-metrics |
+| Get Google Business Profile keyword report | https://seranking.com/api/local-marketing-api/google-business-profile#get-google-business-profile-keyword-report |
+| Get Google Business Profile searches trend | https://seranking.com/api/local-marketing-api/google-business-profile#get-google-business-profile-searches-trend |
+| Business Listings | https://seranking.com/api/local-marketing-api/business-listings/ |
+| List business listings | https://seranking.com/api/local-marketing-api/business-listings#list-business-listings |
+| Get business listings overview | https://seranking.com/api/local-marketing-api/business-listings#get-business-listings-overview |
+| Reviews | https://seranking.com/api/local-marketing-api/reviews/ |
+| List reviews | https://seranking.com/api/local-marketing-api/reviews#list-reviews |
+| Get reviews overview | https://seranking.com/api/local-marketing-api/reviews#get-reviews-overview |
 
 ### se-visible
 
