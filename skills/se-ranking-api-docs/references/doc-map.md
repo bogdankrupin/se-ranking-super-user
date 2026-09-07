@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-08-31. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-09-07. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -135,7 +135,6 @@ The docs are split into three top-level areas:
 | Get prompt details | https://seranking.com/api/se-visible/prompts#get-prompt-details |
 | Get prompt result list | https://seranking.com/api/se-visible/prompts#get-prompt-result-list |
 | Get prompt result details | https://seranking.com/api/se-visible/prompts#get-prompt-result-details |
-| Download raw LLM response dump | https://seranking.com/api/se-visible/prompts#download-raw-llm-response-dump |
 | Sources | https://seranking.com/api/se-visible/sources/ |
 | Get project sources | https://seranking.com/api/se-visible/sources#get-project-sources |
 | Reference | https://seranking.com/api/se-visible/reference/ |
