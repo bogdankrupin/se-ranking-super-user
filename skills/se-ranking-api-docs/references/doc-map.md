@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-09-07. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-10-19. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -114,7 +114,21 @@ The docs are split into three top-level areas:
 | List projects | https://seranking.com/api/se-visible/projects#list-projects |
 | Create project | https://seranking.com/api/se-visible/projects#create-project |
 | Get project details | https://seranking.com/api/se-visible/projects#get-project-details |
+| Update tracking settings | https://seranking.com/api/se-visible/projects#update-tracking-settings |
 | Delete a project | https://seranking.com/api/se-visible/projects#delete-a-project |
+| Locations | https://seranking.com/api/se-visible/locations/ |
+| List project locations | https://seranking.com/api/se-visible/locations#list-project-locations |
+| Add a location | https://seranking.com/api/se-visible/locations#add-a-location |
+| Update a location | https://seranking.com/api/se-visible/locations#update-a-location |
+| Delete a location | https://seranking.com/api/se-visible/locations#delete-a-location |
+| Geo autocomplete | https://seranking.com/api/se-visible/geo-autocomplete/ |
+| List countries | https://seranking.com/api/se-visible/geo-autocomplete#list-countries |
+| Search cities and regions | https://seranking.com/api/se-visible/geo-autocomplete#search-cities-and-regions |
+| Engines | https://seranking.com/api/se-visible/engines/ |
+| List project engines | https://seranking.com/api/se-visible/engines#list-project-engines |
+| Add an engine | https://seranking.com/api/se-visible/engines#add-an-engine |
+| Replace the engine set | https://seranking.com/api/se-visible/engines#replace-the-engine-set |
+| Remove an engine | https://seranking.com/api/se-visible/engines#remove-an-engine |
 | Brands | https://seranking.com/api/se-visible/brands/ |
 | List tracked brands | https://seranking.com/api/se-visible/brands#list-tracked-brands |
 | Create competitor brand | https://seranking.com/api/se-visible/brands#create-competitor-brand |
@@ -137,6 +151,7 @@ The docs are split into three top-level areas:
 | Get prompt result details | https://seranking.com/api/se-visible/prompts#get-prompt-result-details |
 | Sources | https://seranking.com/api/se-visible/sources/ |
 | Get project sources | https://seranking.com/api/se-visible/sources#get-project-sources |
+| Get aggregated source metrics | https://seranking.com/api/se-visible/sources#get-aggregated-source-metrics |
 | Reference | https://seranking.com/api/se-visible/reference/ |
 | AI models | https://seranking.com/api/se-visible/reference#ai-models |
 | Sentiment | https://seranking.com/api/se-visible/reference#sentiment |
