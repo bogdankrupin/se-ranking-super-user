@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-10-19. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-11-02. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -552,12 +552,6 @@ The docs are split into three top-level areas:
 | Delete all prompts in group | https://seranking.com/api/project/airt-groups#delete-all-prompts-in-group |
 | Move prompts to group | https://seranking.com/api/project/airt-groups#move-prompts-to-group |
 | Move all prompts from one group to another | https://seranking.com/api/project/airt-groups#move-all-prompts-from-one-group-to-another |
-
-### project
-
-| Topic | URL |
-|---|---|
-| View docs | https://seranking.com/api/project/ |
 
 <!-- AUTO-GENERATED:END -->
 
