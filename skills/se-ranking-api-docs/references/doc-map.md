@@ -18,7 +18,7 @@ The docs are split into three top-level areas:
 
 ---
 
-<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-11-02. Do not edit by hand. -->
+<!-- AUTO-GENERATED:START -- rewritten by scripts/refresh_doc_map.py on 2026-11-09. Do not edit by hand. -->
 
 ## 1. API (general)
 
@@ -146,6 +146,7 @@ The docs are split into three top-level areas:
 | Delete prompts | https://seranking.com/api/se-visible/prompts#delete-prompts |
 | Create prompts for a topic | https://seranking.com/api/se-visible/prompts#create-prompts-for-a-topic |
 | Move prompts to a topic | https://seranking.com/api/se-visible/prompts#move-prompts-to-a-topic |
+| Change prompt locations | https://seranking.com/api/se-visible/prompts#change-prompt-locations |
 | Get prompt details | https://seranking.com/api/se-visible/prompts#get-prompt-details |
 | Get prompt result list | https://seranking.com/api/se-visible/prompts#get-prompt-result-list |
 | Get prompt result details | https://seranking.com/api/se-visible/prompts#get-prompt-result-details |
